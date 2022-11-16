@@ -4,7 +4,7 @@
 
 ## Introduction
 
-These Harmonoid builds are generated with a sole purpose of receiving [confirmation & user-feedback](https://github.com/harmonoid/harmonoid/issues) after a bug-fix/feature-implementation _i.e._ in simple words, testing.
+These Harmonoid builds are generated with a sole purpose of [receiving confirmation & user-feedback](https://github.com/harmonoid/harmonoid/issues) after a bug-fix/feature-implementation _i.e._ in simple words, testing.
 
 For general & daily usage, the stable builds may be downloaded from [here](https://harmonoid.com/downloads/).
 
