@@ -10,7 +10,7 @@ These Harmonoid builds are generated with a sole purpose of [receiving confirmat
 
 ## Download
 
-You can download the latest snapshot build [here](https://github.com/harmonoid/nightly/releases/tag/nightly).
+You can download the latest snapshot build [here](https://github.com/harmonoid/nightly/releases/tag/snapshot).
 
 <hr>
 
